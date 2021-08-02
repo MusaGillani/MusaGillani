@@ -1,5 +1,13 @@
-### Hi there 👋
+**👋 Hi, I'm [@MusaGillani](https://github.com/MusaGillani)** 
 
+- 😁 I love to learn about new technologies and frameworks
+- 🔭 Currently working on Flutter
+- 🤔 Want to learn some JS as well 
+- 💬 Share some articles or tutorials with me on [My Twitter](https://twitter.com/GillaniMusa)
+- 📫 I'm reachable at: 
+   - Mail: [musagillaniwork@gmail.com](musagillaniwork@gmail.com) 
+   - LinkedIn: [musa gillani](https://www.linkedin.com/in/musa-gillani-71b9971b0/)
+- Check my latest [project](https://github.com/MusaGillani/complaintronix-flutter/) in flutter 
 <!--
 **MusaGillani/MusaGillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
