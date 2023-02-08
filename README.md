@@ -1,8 +1,8 @@
 **👋 Hi, I'm [@MusaGillani](https://github.com/MusaGillani)** 
 
 - 😁 I love to learn about new technologies and frameworks
-- 🔭 Currently working on React
-- 🤔 Want to learn NEXTJs and Svelte as well 
+- 🔭 Currently working with NEXTJs
+- 🤔 Want to learn Astro and SolidJS as well 
 - 💬 Share some articles or tutorials with me on [My Twitter](https://twitter.com/GillaniMusa)
 - 📫 I'm reachable at: 
    - Mail: [musagillaniwork@gmail.com](musagillaniwork@gmail.com) 
