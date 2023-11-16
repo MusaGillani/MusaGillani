@@ -5,7 +5,7 @@
 - 🤔 Want to learn Astro and SolidJS as well 
 - 💬 Share some articles or tutorials with me on [My Twitter](https://twitter.com/GillaniMusa)
 - 📫 I'm reachable at: 
-   - portfolio: [moses.gg](https://moses-sigma.vercel.app/)
+   - portfolio: [moses.gg](https://mosesgg.vercel.app/)
    - Mail: [musagillaniwork@gmail.com](musagillaniwork@gmail.com) 
    - LinkedIn: [musa gillani](https://www.linkedin.com/in/musa-gillani-71b9971b0/)
 - Check my latest [project](https://github.com/MusaGillani/complaintronix-flutter/) in flutter 
