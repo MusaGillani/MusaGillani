@@ -8,7 +8,7 @@
    - portfolio: [moses.gg](https://mosesgg.vercel.app/)
    - Mail: [musagillaniwork@gmail.com](musagillaniwork@gmail.com) 
    - LinkedIn: [musa gillani](https://www.linkedin.com/in/musa-gillani-71b9971b0/)
-- Check my latest [project](https://github.com/MusaGillani/complaintronix-flutter/) in flutter 
+- Check my latest [project](https://github.com/MusaGillani/mosesdotgg) in NEXTJs
 <!--
 **MusaGillani/MusaGillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
