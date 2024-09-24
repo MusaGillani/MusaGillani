@@ -1,14 +1,13 @@
 **👋 Hi, I'm [@MusaGillani](https://github.com/MusaGillani)** 
 
 - 😁 I love to learn about new technologies and frameworks
-- 🔭 Currently working with NEXTJs
-- 🤔 Want to learn Astro and SolidJS as well 
-- 💬 Share some articles or tutorials with me on [My Twitter](https://twitter.com/GillaniMusa)
+- 🔭 Working with [NEXTJs](https://nextjs.org/)
+- 🤔 Playing around with [Rust](https://www.rust-lang.org/) in [tauri](https://tauri.app/)
 - 📫 I'm reachable at: 
    - portfolio: [moses.gg](https://mosesgg.vercel.app/)
    - Mail: [musagillaniwork@gmail.com](musagillaniwork@gmail.com) 
    - LinkedIn: [musa gillani](https://www.linkedin.com/in/musa-gillani-71b9971b0/)
-- Check my latest [project](https://github.com/MusaGillani/mosesdotgg) in NEXTJs
+   - twitter/X: [mosesdotgg](https://twitter.com/mosesdotgg)
 <!--
 **MusaGillani/MusaGillani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
